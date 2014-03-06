@@ -1,4 +1,4 @@
-Baristamatic Problem Solution for Trustwave
+Baristamatic Problem Solution
 Author: Sidharth Sitaram Jhawar	
 		MS-CS,Indiana University Bloomington
 		
